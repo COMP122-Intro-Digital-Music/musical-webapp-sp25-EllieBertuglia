@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "HW- comp",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.105",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.405"
+      },
+      "oscillator": {
+        "partialCount": 2,
+        "partials": [
+          0.8105694691387023,
+          0
+        ],
+        "phase": 171,
+        "type": "fmtriangle2",
+        "harmonicity": 1,
+        "modulationIndex": 2,
+        "modulationType": "square"
+      }
+    }
+  }
+]
